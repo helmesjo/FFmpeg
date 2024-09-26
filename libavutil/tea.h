@@ -32,7 +32,7 @@
  * @{
  */
 
-extern const int av_tea_size;
+av_export_avutil extern const int av_tea_size;
 
 struct AVTEA;
 

@@ -42,7 +42,7 @@
 
 
 struct AVTreeNode;
-extern const int av_tree_node_size;
+av_export_avutil extern const int av_tree_node_size;
 
 /**
  * Allocate an AVTreeNode.

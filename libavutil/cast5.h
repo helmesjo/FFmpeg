@@ -33,7 +33,7 @@
   * @{
   */
 
-extern const int av_cast5_size;
+av_export_avutil extern const int av_cast5_size;
 
 struct AVCAST5;
 

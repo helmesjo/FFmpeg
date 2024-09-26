@@ -50,7 +50,7 @@
  * @{
  */
 
-extern const int av_sha512_size;
+av_export_avutil extern const int av_sha512_size;
 
 struct AVSHA512;
 

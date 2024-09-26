@@ -33,7 +33,7 @@
   * @{
   */
 
-extern const int av_camellia_size;
+av_export_avutil extern const int av_camellia_size;
 
 struct AVCAMELLIA;
 

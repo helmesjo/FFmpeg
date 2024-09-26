@@ -40,7 +40,7 @@
  * @{
  */
 
-extern const int av_md5_size;
+av_export_avutil extern const int av_md5_size;
 
 struct AVMD5;
 
